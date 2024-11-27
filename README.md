@@ -1,1 +1,2 @@
-# PruebaMobile3
+Instalar android studio 
+Instalar json
